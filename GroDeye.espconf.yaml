@@ -33,6 +33,10 @@ captive_portal:
 web_server:
  port: 80
 
+time:
+  - platform: homeassistant
+    id: homeassistant_time
+
 uart:
   id: mod_bus
   tx_pin: 17
