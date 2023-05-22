@@ -37,13 +37,7 @@ time:
   - platform: homeassistant
     id: homeassistant_time
 
-uart:
-  id: mod_bus
-  tx_pin: 1
-  rx_pin: 3
-  baud_rate: 9600
-  stop_bits: 1
- 
+
  
  
  
@@ -69,7 +63,7 @@ uart:
   tx_pin: 1
   rx_pin: 3
   baud_rate: 9600
- 
+  stop_bits: 1
  
  
 modbus:
