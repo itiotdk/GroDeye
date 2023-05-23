@@ -2,6 +2,14 @@
 Growatt wifi S dongle on deye 12kw inverter
 
 
+
+BEWARE:  Code is currently not valid and should not be used.
+
+the esp seems to be to week to handle all the modbus parameters.
+
+
+
+
 code is snatched from https://github.com/klatremis/esphome-for-deye
 
 and 
